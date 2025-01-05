@@ -16,7 +16,7 @@ The project answers the following business questions:
 - Data Table Creation
 
 **Visualization:**
-- Bar chart for monthly application totals (Excel/Python).
+- Bar chart for monthly application totals (Excel).
 
 ## Process
 ### Data Preparation:
