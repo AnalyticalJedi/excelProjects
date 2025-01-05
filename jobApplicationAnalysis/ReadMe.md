@@ -5,44 +5,48 @@ This project analyzes job applications submitted to a recruiting agency's online
 
 ## Objective
 The project answers the following business questions:
-1. **Total applications received per month in 2019.**
-2. **Months with the least and greatest number of applications.**
-3. **Average number of applications received per month.**
+- Total applications received per month in 2019.
+- Months with the least and greatest number of applications.
+- Average number of applications received per month.
 
 ## Tools Used
-- **Spreadsheet Software (Excel/Google Sheets):**
-  - Data Cleaning (Sorting and Formatting)
-  - Functions: `TEXT`, `COUNTIF`, `SUM`, `MIN`, `MAX`, `AVERAGE`
-  - Data Table Creation
-- **Visualization:**
-  - Bar chart for monthly application totals (Excel/Python).
+**Spreadsheet Software (Excel/Google Sheets):**
+- Data Cleaning (Sorting and Formatting)
+- Functions: TEXT, COUNTIF, SUM, MIN, MAX, AVERAGE
+- Data Table Creation
+
+**Visualization:**
+- Bar chart for monthly application totals (Excel/Python).
 
 ## Process
-1. **Data Preparation:**
-   - Imported raw data and sorted by date.
-   - Created a new column to extract month names using the `TEXT` function.
+### Data Preparation:
+- Imported raw data and sorted by date.
+- Created a new column to extract month names using the TEXT function.
 
-2. **Data Aggregation:**
-   - Built a custom data table to calculate monthly application totals using the `COUNTIF` function.
+### Data Aggregation:
+- Built a custom data table to calculate monthly application totals using the COUNTIF function.
 
-3. **Summary Statistics:**
-   - Total applications in 2019: **32,595**
-   - Peak month: **July** (3,138 applications)
-   - Slowest month: **February** (2,312 applications)
-   - Average monthly applications: **2,716**
+### Summary Statistics:
+- **Total applications in 2019**: 32,595
+- **Peak month**: July (3,138 applications)
+- **Slowest month**: February (2,312 applications)
+- **Average monthly applications**: 2,716
 
-4. **Visualization:**
-   - Created a bar chart to display monthly application totals.
+### Visualization:
+- Created a bar chart to display monthly application totals.
 
 ## Insights
-- **Peak Period:** July saw the highest applications, indicating strong demand.
-- **Slow Period:** February had the least applications, presenting an opportunity to increase advertising efforts.
-- **Strategic Impact:** Data analysis helps allocate resources effectively for advertising and outreach.
+- **Peak Period**: July saw the highest applications, indicating strong demand.
+- **Slow Period**: February had the least applications, presenting an opportunity to increase advertising efforts.
+- **Strategic Impact**: Data analysis helps allocate resources effectively for advertising and outreach.
+
+## Data Insights and Visualization
+The dataset used for this project is available for review in [this Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vShQNetuCGqsraSe1hmGZ1Ca5mjmlz-1hHWh0h14GyS0El8tKk3Vq6S81ZfCqETVxf7oIxFm8_oViPM/pubhtml).
 
 ## Files
-- `Data/`
+- **Data/**  
   - `2019_data_analyst_jobs.xlsx`: Raw and summary data.
-- `Visuals/`
+- **Visuals/**  
   - `Monthly_Applications_2019.png`: Bar chart of monthly application totals.
 
 ## How to Use
