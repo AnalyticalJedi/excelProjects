@@ -15,8 +15,6 @@ To address the following key business questions:
   - Functions: `SUM`, `COUNTIF`, `AVERAGE`
   - Pivot Tables for Aggregation
   - Visualization (Bar and Pie Charts)
-- **Python (optional):**
-  - For enhanced data visualization and analysis.
 
 ## Process
 1. **Data Preparation:**
@@ -33,6 +31,12 @@ To address the following key business questions:
 4. **Visualization:**
    - Produced bar charts to show sales trends across genres.
    - Created pie charts to illustrate customer preferences.
+  
+5. **Data Insights and Visualization:**
+The dataset used for this project is available for review in:
+   - [HistoricSales](https://docs.google.com/spreadsheets/d/e/2PACX-1vShQNetuCGqsraSe1hmGZ1Ca5mjmlz-1hHWh0h14GyS0El8tKk3Vq6S81ZfCqETVxf7oIxFm8_oViPM/pubhtml)
+   - [CustomerSurvey](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvFeUVUtKY2WaZ7crDeR86gsZrE5_QoCE7Rgo8f_bhOrWbJAaXDgK2c1McNmMBbG5z2n5uI6MdwScl/pubhtml).
+   - There are also downloadable spreadsheets in the Data folder for this project.
 
 ## Key Insights
 - **Popular Genres:** Feminist fiction and biographies remain the most profitable.
