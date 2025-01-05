@@ -41,7 +41,7 @@ The project answers the following business questions:
 - **Strategic Impact**: Data analysis helps allocate resources effectively for advertising and outreach.
 
 ## Data Insights and Visualization
-The dataset used for this project is available for review in [this Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vShQNetuCGqsraSe1hmGZ1Ca5mjmlz-1hHWh0h14GyS0El8tKk3Vq6S81ZfCqETVxf7oIxFm8_oViPM/pubhtml).
+The dataset used for this project is available for review in [this Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vShQNetuCGqsraSe1hmGZ1Ca5mjmlz-1hHWh0h14GyS0El8tKk3Vq6S81ZfCqETVxf7oIxFm8_oViPM/pubhtml). There is also a downloadable spreadsheet in the Data folder of this project.
 
 ## Files
 - **Data/**  
